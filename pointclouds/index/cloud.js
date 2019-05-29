@@ -1,7 +1,7 @@
 {
     "version": "1.7",
     "octreeDir": "data",
-    "projection": "+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs  ",
+    "projection": "+proj=longlat +datum=WGS84 +no_defs  ",
     "points": 1540873,
     "boundingBox": {
         "lx": 473467.84,
